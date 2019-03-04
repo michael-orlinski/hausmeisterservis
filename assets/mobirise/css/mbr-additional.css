@@ -2057,3 +2057,10 @@ body {
 .cid-rjFzPCepAm .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-rjKMNtYDaN {
+  background: linear-gradient(45deg, #e4d295, #ff3366);
+}
+.cid-rjKMNtYDaN .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
